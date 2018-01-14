@@ -2,7 +2,6 @@
 
 import logging
 from ansiblerunner import AnsibleRunner
-from application_config import *
 from flask import Flask, request, jsonify
 app = Flask(__name__)
 
