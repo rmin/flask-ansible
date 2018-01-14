@@ -1,0 +1,2 @@
+## Custom Ansible modules
+If you [develop new Ansible modules](http://docs.ansible.com/ansible/latest/dev_guide/developing_modules_general.html) just put them in this directory in this project and start using them in the application.
