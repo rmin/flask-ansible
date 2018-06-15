@@ -172,3 +172,8 @@ This is a sample JSON response from the application:
 Use [Flask documentation](http://flask.pocoo.org/docs/) for more information on developing Flask applications.
 You can use any [Ansible module](http://docs.ansible.com/ansible/latest/modules_by_category.html) to write tasks in your application.
 If you [develop new Ansible modules](http://docs.ansible.com/ansible/latest/dev_guide/developing_modules_general.html) just put them in ```application/library``` directory in this project and start using them in the application.
+
+## License
+MIT License
+
+Copyright (c) 2018 @rmin
